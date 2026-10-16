@@ -1,4 +1,4 @@
-# Homebody
+# EasyDoDiet
 
 오프라인 건강 기록 안드로이드 앱. 걸음 · 체중 · 식단 · 운동 · 운동 중 음악을 한 앱에서 기록하고, 데이터는 기기 밖으로 나가지 않음.
 
@@ -19,13 +19,13 @@
 
 ## 설치
 
-[Releases](../../releases)에서 `Homebody-<버전>.apk`를 받아 설치. Android 11 이상.
+[Releases](../../releases)에서 `EasyDoDiet-<버전>.apk`를 받아 설치. Android 11 이상.
 
 - 처음 설치 시 "출처를 알 수 없는 앱" 설치 허용 필요. Play 프로텍트가 검사 화면을 띄울 수 있음
 - 업데이트는 새 APK를 같은 방식으로 덮어 설치. 기록 · 설정 유지
 - 앱 안 업데이트 알림 없음. Releases 페이지에서 직접 확인
 - 서명 인증서 SHA-256: `1a277fae84af21854bee6da6f2aae7fed6bbd4c1022ca9103addd0fca3988b4d`
-  (`apksigner verify --print-certs Homebody-<버전>.apk`로 확인)
+  (`apksigner verify --print-certs EasyDoDiet-<버전>.apk`로 확인)
 
 ## 개인정보
 
