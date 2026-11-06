@@ -6,7 +6,7 @@
 
 ## 다운로드
 
-최신 버전 0.2.1 — [Releases](https://github.com/parkrye/AppProject_EasyDoDiet/releases)에서 `EasyDoDiet-<버전>.apk`를 받아 설치. Android 11 이상.
+최신 버전 0.2.2 — [Releases](https://github.com/parkrye/AppProject_EasyDoDiet/releases)에서 `EasyDoDiet-<버전>.apk`를 받아 설치. Android 11 이상.
 
 - 처음 설치 시 "출처를 알 수 없는 앱" 설치 허용 필요. Play 프로텍트가 검사 화면을 띄울 수 있음
 - 업데이트는 새 APK를 같은 방식으로 덮어 설치. 기록 · 설정 유지
